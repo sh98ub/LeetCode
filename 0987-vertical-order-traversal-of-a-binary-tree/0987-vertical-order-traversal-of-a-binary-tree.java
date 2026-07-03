@@ -14,54 +14,55 @@
  * }
  */
 class Solution {
-    class Pair {
-        TreeNode node;
-        int row;  // y-coordinate (depth)
-        int col;  // x-coordinate (hd)
+          TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map=new TreeMap<>();
 
-        Pair(TreeNode node, int row, int col) {
-            this.node = node;
-            this.row = row;
-            this.col = col;
-        }
+public void dfs(TreeNode root, int col, int row){
+
+    if(root==null) return;
+if (!map.containsKey(col))
+    map.put(col, new TreeMap<>());
+
+if (!map.get(col).containsKey(row))
+    map.get(col).put(row, new PriorityQueue<>());
+
+    map.get(col).get(row).offer(root.val);
+
+    dfs(root.left, col-1,row+1 );
+
+    dfs(root.right,col+1,row+1);
+
+ }   public List<List<Integer>> verticalTraversal(TreeNode root) {
+
+        List<List<Integer>> result=new ArrayList<>();
+
+        if(root==null) return result;
+
+        dfs(root,0,0);
+
+        for (Map.Entry<Integer, TreeMap<Integer, PriorityQueue<Integer>>> colEntry : map.entrySet()) {
+
+    TreeMap<Integer, PriorityQueue<Integer>> rows = colEntry.getValue();
+     List<Integer> list=new ArrayList<>();
+
+    for (Map.Entry<Integer, PriorityQueue<Integer>> rowEntry : rows.entrySet()) {
+        Integer row = rowEntry.getKey();
+    PriorityQueue<Integer> pq = rowEntry.getValue();
+
+   
+
+    while (!pq.isEmpty()) {
+        list.add(pq.poll());
     }
 
-    public List<List<Integer>> verticalTraversal(TreeNode root) {
-        // Map<col, List of [row, value]>
-        TreeMap<Integer, List<int[]>> map = new TreeMap<>();
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(root, 0, 0));
+  
 
-        while (!q.isEmpty()) {
-            Pair curr = q.poll();
-            TreeNode node = curr.node;
+    }
+      result.add(list);
+}
 
-            map.putIfAbsent(curr.col, new ArrayList<>());
-            map.get(curr.col).add(new int[]{curr.row, node.val});
+return result;
 
-            if (node.left != null) {
-                q.add(new Pair(node.left, curr.row + 1, curr.col - 1));
-            }
-            if (node.right != null) {
-                q.add(new Pair(node.right, curr.row + 1, curr.col + 1));
-            }
-        }
 
-        List<List<Integer>> result = new ArrayList<>();
-        for (List<int[]> list : map.values()) {
-            // Sort by row first, then value
-            Collections.sort(list, (a, b) -> {
-                if (a[0] == b[0]) return a[1] - b[1]; // same row → sort by value
-                return a[0] - b[0]; // sort by row
-            });
-
-            List<Integer> colVals = new ArrayList<>();
-            for (int[] arr : list) {
-                colVals.add(arr[1]);
-            }
-            result.add(colVals);
-        }
-
-        return result;
+        
     }
 }
