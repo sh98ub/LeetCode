@@ -15,15 +15,22 @@ class Solution {
         if(root==p || root==q){
             return root;
         }
+if(root.val >p.val && root.val >q.val){
+        return lowestCommonAncestor(root.left, p,q);
+}else if(root.val <p.val && root.val <q.val){
+      return  lowestCommonAncestor(root.right, p,q);
+}
 
-        TreeNode lc=lowestCommonAncestor(root.left, p,q);
-        TreeNode rc=lowestCommonAncestor(root.right, p,q);
+TreeNode lc=lowestCommonAncestor(root.left, p,q);
+TreeNode rc=lowestCommonAncestor(root.right, p,q);
 
-        if(lc!=null && rc!=null){
-            return root;
-        }
+if(lc!=null && rc !=null){
+    return root;
+}
 
-        return lc==null?rc:lc;
+return lc!=null?lc:rc;
+
+      
         
     }
 }
