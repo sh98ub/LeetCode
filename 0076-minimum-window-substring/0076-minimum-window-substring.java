@@ -3,57 +3,53 @@ class Solution {
         int n=s.length();
         int m=t.length();
 
-        if(n<m){
-            return "";
-        }
-        int minLen=Integer.MAX_VALUE;
-        int startIdx=-1;
-        int count=0;
-        int left=0;
         int[] countS=new int[128];
         int[] countT=new int[128];
+
+        if(n<m){
+            return "";
+            
+        }
+        int minLen=Integer.MAX_VALUE;
+        int count=0;
 
         for(int i=0;i<m;i++){
             countT[t.charAt(i)]++;
         }
-        
+    
+        int left=0;
+        int ans=-1;
 
-        for(int right=0;right<n;right++){
-            char ch=s.charAt(right);
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
 
             countS[ch]++;
 
-            if(countT[ch]>0 && countS[ch] <=countT[ch]){
+        if(countT[ch]>0 && countS[ch]<= countT[ch]){
                 count++;
+
+            }
+            if(count==m){
+                while((countS[s.charAt(left)]> countT[s.charAt(left)])|| countT[s.charAt(left)]==0){
+                    if((countS[s.charAt(left)]> countT[s.charAt(left)])){
+                        countS[s.charAt(left)]--;
+                      
+                    }
+                      left++;
+                }
+
+                    int winLen=i-left+1;
+
+                    if(winLen<minLen){
+                        minLen=winLen;
+                        ans=left;
+                    }
             }
 
-
-          if(count == m){
-
-    while(countS[s.charAt(left)] > countT[s.charAt(left)]
-          || countT[s.charAt(left)] == 0){
-
-        if(countS[s.charAt(left)] > countT[s.charAt(left)]){
-            countS[s.charAt(left)]--;
         }
 
-        left++;
-    }
+                return (ans == -1) ? "" : s.substring(ans, ans+ minLen);
 
-    int windowLen = right - left + 1;
-
-    if(windowLen < minLen){
-        minLen = windowLen;
-        startIdx = left;
-    }
-}
-
-
-
-        }
-                return (startIdx == -1) ? "" : s.substring(startIdx, startIdx + minLen);
-
-
-
+        
     }
 }
