@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sh98ub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sh98ub/LeetCode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sh98ub/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sh98ub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sh98ub/LeetCode/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sh98ub/LeetCode/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sh98ub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sh98ub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sh98ub/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sh98ub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sh98ub/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
