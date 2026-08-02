@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sh98ub/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sh98ub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sh98ub/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sh98ub/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sh98ub/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sh98ub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sh98ub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sh98ub/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
