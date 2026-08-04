@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sh98ub/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/sh98ub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sh98ub/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/sh98ub/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sh98ub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sh98ub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sh98ub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sh98ub/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sh98ub/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sh98ub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sh98ub/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sh98ub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sh98ub/LeetCode/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
