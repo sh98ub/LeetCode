@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sh98ub/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sh98ub/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sh98ub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/sh98ub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sh98ub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sh98ub/LeetCode/tree/master/0015-3sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/sh98ub/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sh98ub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/sh98ub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sh98ub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sh98ub/LeetCode/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sh98ub/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Math
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
