@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sh98ub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sh98ub/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sh98ub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/sh98ub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sh98ub/LeetCode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sh98ub/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sh98ub/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sh98ub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sh98ub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sh98ub/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/sh98ub/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sh98ub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sh98ub/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sh98ub/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/sh98ub/LeetCode/tree/master/0410-split-array-largest-sum) |
