@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sh98ub/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sh98ub/LeetCode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/sh98ub/LeetCode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sh98ub/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sh98ub/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sh98ub/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/sh98ub/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sh98ub/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0621-task-scheduler](https://github.com/sh98ub/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/sh98ub/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sh98ub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sh98ub/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sh98ub/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sh98ub/LeetCode/tree/master/0621-task-scheduler) |
 | [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sh98ub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/sh98ub/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sh98ub/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sh98ub/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sh98ub/LeetCode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/sh98ub/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/sh98ub/LeetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -187,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sh98ub/LeetCode/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sh98ub/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sh98ub/LeetCode/tree/master/0621-task-scheduler) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sh98ub/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Indexed Tree
 |  |
