@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sh98ub/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/sh98ub/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sh98ub/LeetCode/tree/master/0767-reorganize-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sh98ub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sh98ub/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
@@ -226,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sh98ub/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sh98ub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sh98ub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
